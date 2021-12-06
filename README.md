@@ -215,23 +215,23 @@ print("="*30)
 	```
 ### D. Output
 
-![img](Ss/ss13.png)
+![img](Ss/ss13.PNG)
 
-![img](Ss/ss14.png)
+![img](Ss/ss14.PNG)
 
-![img](Ss/ss15.png)
+![img](Ss/ss15.PNG)
 
-![img](Ss/ss16.png)
+![img](Ss/ss16.PNG)
 
-![img](Ss/ss17.png)
+![img](Ss/ss17.PNG)
 
-![img](Ss/ss18.png)
+![img](Ss/ss18.PNG)
 
-![img](Ss/ss19.png)
+![img](Ss/ss19.PNG)
 
-![img](Ss/ss20.png)
+![img](Ss/ss20.PNG)
 
-![img](Ss/ss21.png)
+![img](Ss/ss21.PNG)
 
 
 
